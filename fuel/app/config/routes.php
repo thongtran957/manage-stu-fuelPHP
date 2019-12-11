@@ -41,5 +41,5 @@ return array(
     'hello(/:name)?' => array('welcome/hello', 'name' => 'hello'),
 
     'student' => array('student/index', 'name' => 'student.index'),
-    'student/delete' => array('student/delete', 'name' => 'student.delete'),
+
 );
